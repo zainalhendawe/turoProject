@@ -246,6 +246,7 @@ body {
 
 .currosel-section {
   margin-bottom: 57px;
+  overflow: hidden;
 }
 
 .carousel-wrap {
@@ -631,7 +632,7 @@ input[type=text]:focus{
     cursor: pointer;
     border-radius: initial;
     display: inline;
-    width: 170px;
+    width: 50%;
     margin-right: -5px;
 }
 .form-price-time-style{
@@ -643,7 +644,7 @@ input[type=text]:focus{
   cursor: pointer;
   border-radius: initial;
   display: inline;
-  width: 139px;
+  width: 50%;
 }
 .book-car-btn{
   width: 90%;
@@ -655,6 +656,13 @@ input[type=text]:focus{
   padding: 9px 18px;
   margin-bottom: 25px;
   font-size: 18px;
+}
+.img-carruselbox{
+  width: 190px; 
+  height: 166px;
+}
+.big-currosel-header .carousel-inner {
+  height: auto;
 }
 
 
