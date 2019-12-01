@@ -159,7 +159,7 @@ body {
 
 .provider-section-btn {
   position: absolute;
-  left: 530px;
+  left: 42%;
   bottom: -72px;
   background: #fff;
   padding: 0 20px;
@@ -188,6 +188,7 @@ body {
 }
 
 .discover-title-two {
+  text-align: center;
   font-size: 52px;
   max-width: 630px;
   margin-right: auto;
@@ -237,7 +238,7 @@ body {
 
 .rental-category-carousel-title {
   font-size: 21px;
-  padding: 0 40px;
+  /* padding: 0 40px; */
   font-weight: bold;
   margin-top: 58px;
   margin-bottom: 37px;
@@ -388,7 +389,7 @@ span.img-text:hover {
 /* second page style  */
 
 .big-currosel-header .carousel-inner {
-  height: 556px;
+  height: 736px;
 }
 
 .big-currosel-header .carousel-control-prev {
